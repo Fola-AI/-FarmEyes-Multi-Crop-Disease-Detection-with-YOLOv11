@@ -28,6 +28,9 @@ Early detection of crop diseases is critical for improving yield and reducing lo
 
 A single model is trained to learn shared visual features across crops while distinguishing fine-grained disease patterns.
 
+Installation was done using Pytorch, installation instructions can be found here:
+**https://github.com/mrdbourke/pytorch-apple-silicon?tab=readme-ov-file**
+
 ---
 
 ## 📂 Dataset
